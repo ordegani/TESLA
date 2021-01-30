@@ -1,0 +1,326 @@
+/* reset */
+* {
+    margin:o;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* top */
+
+.pic1{
+    background-image:url(/tesle/תמונה\ רקע\ ראשונה.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:100vh;  
+     
+}
+#topbox h1{
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    padding-top:10px;
+    padding-left:10px;  
+}
+#centernav{
+    color:rgb(255, 255, 255);
+    font-size: 25px;   
+    margin:-70px 900px;          
+}
+#centernav ul li{
+    list-style: none; 
+    float:left;
+    padding-top: 1px;
+    margin:10px;   
+}
+#rightnav{
+    color:rgb(255, 255, 255);
+    font-size: 25px;     
+}
+#rightnav ul li{
+    list-style: none; 
+    float:right;
+    padding-top:10px;
+    padding-right:20px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 25px; 
+}
+#burger{
+    color:rgb(255, 255, 255);
+    float:right;
+    padding-top:10px;
+    margin-right: -260px;
+    font-size: 22px; 
+}
+#leftnav{
+    background:transparen;
+    border: 2px transparent solid;
+    margin-top: 400px;;
+    width: 10%;
+    height: 249px;    
+}
+#leftnav1{
+    position: relative;
+    display: inline-block;
+    left:10px;
+    
+}
+#leftnav1 ul li{
+    list-style: none; 
+    color:transparent;
+    font-size: 15px;
+    padding-top: 10px;
+}
+#A{
+   color: rgb(255, 255, 255); 
+   font-size:17px;
+   font-weight: bolder;
+}
+#leftnav1 ul li:hover{
+    color: rgb(255, 255, 255);
+}
+#a{
+    color: rgb(140, 135, 135); 
+ }
+/* #bottombar1{
+    
+        background:transparent;
+        border: 2px rgb(8, 0, 2) solid;
+        margin-top: 20%;
+        width: 50%;
+        height: 65px;
+        padding-left:50%;
+        padding-right: 10%;
+        list-style: none; 
+    }
+    #bottombar1 ul li{
+        
+        padding-left:400px;}
+    #bottombar1 ul{
+        float: right;
+        margin:0;*/
+
+
+#bottombar1{
+        color:rgb(255, 255, 255);
+            font-size: 35px;   
+            margin:500px 1100px;
+                  
+}
+#bottombar1 ul li{
+    list-style: none; 
+    float:left;
+    margin:5px;   
+}    
+#bottombar2{
+    color:rgb(255, 255, 255);
+        font-size: 15px;   
+        margin:500px 1080px;            
+}
+#bottombar2 ul li{
+list-style: none; 
+float:left;        
+margin:25px;  
+} 
+#btn{
+    background-color: transparent;
+    color:rgb(255, 255, 255); 
+    border: rgb(255, 255, 255) 2px solid;
+    /*font-family: 'Lobster', cursive;*/
+    margin: 20px;
+    padding:20px;
+    border-radius: 30px 30px;    
+}
+.fa-tachometer-alt{
+    color:rgb(255, 255, 255);  
+    margin-right: 15px;
+    font-size: 25px;
+}
+.pic2{
+    background-image:url(/tesle/תמונה\ רקע\ שניה.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    height:100vh; 
+    position: relative;
+}
+#side1{
+    background:transparent;
+    float: left;
+    width: 15%;
+    height: 400px;
+    font-size: 25px;
+    padding-top:10px;
+    padding-left:10px; 
+    /*margin-top: 60px;*/
+}
+#side1 ul{
+    list-style: none;
+}
+#safety{
+    padding-top: 10px;
+    padding-left: 15px;
+    color: black;
+    font-size: 20px;
+}
+#BFS{
+    font-size: 25px;
+    padding-left: 15PX;
+}
+#par{
+    font-size: 15px;
+    padding-left: 15PX;
+    display: block;
+    padding-top: 30px;
+}
+#boxofstars{
+    margin-top: 80px;
+    background-color:#F2F2F2;
+    margin-left:10px ;
+    height: 110%;
+}
+#boxofstars h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#dpfrr{
+    font-size: 23px;
+    padding-top: 15px;
+    width:100px;
+}
+#boxofstars a{
+    font-size: 10px;
+}
+#stars ul li{
+    font-size: 40px;
+    padding-bottom: 6px;
+} 
+#stars{
+    padding-left: 200px;
+    margin-top: -320px;
+    position: absolute;
+}
+#btn2{
+    background-color: transparent;
+    color:black; 
+    border: black 2px solid;
+    /*font-family: 'Lobster', cursive;*/
+    margin-left: 190px;
+    margin-top: -200px;
+    padding:15px;
+    border-radius: 30px 30px; 
+}
+#learnmore{
+    margin-bottom: -20px;
+    margin-left: 40px;
+    width: 200px;  
+}
+#plus{
+    font-size: 30px;
+}
+.box{
+    background:black;
+    height:300px;
+    width:5px;
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: -1000px;
+}    
+#ip{
+    padding-left: 10px;
+    margin-top: -20px;
+    width:300px;
+    font-weight: lighter;
+}
+.pic3{
+    background-image:url(/tesle/תמונה\ רקע\ שלישית.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:100vh; 
+    margin-top: 20px;
+    height: 1020px;
+}    
+#side2{
+    background:transparent;
+    float: left;
+    width: 15%;
+    height: 400px;
+    font-size: 25px;
+    margin-top:10px;
+    margin-left:10px; 
+    background:transparent;
+    font-weight: lighter;
+}
+#lowerWhite{
+    margin-bottom:120px ;
+    margin-top: 50px;
+    margin-left:900px
+}
+#lowerWhite h1{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+#lowerWhite h3{
+    font-size: 45px;
+    margin-left:800px;       
+}
+#btn3{
+    background-color: transparent;
+    color:black; 
+    border: black 2px solid;
+    /*font-family: 'Lobster', cursive;*/
+    margin-left: 140px;
+    margin-top: -200px;
+    padding:15px;
+    border-radius: 30px 30px; 
+}
+#learnmore2{
+    margin-bottom: -20px;
+    
+    width: 200px;  
+}
+#plus2{
+    font-size: 30px;
+}
+#lowerp{
+    font-size: 22px;
+    padding-top: 10px;
+    height:170px;
+    width:600px;
+    margin-left: 1200px;    
+    margin-top:-260px ;
+}    
+     
+#bottombar2{
+    color:rgb(255, 255, 255);
+        font-size: 35px;   
+        
+              
+}
+#bottombar2 ul li{
+list-style: none; 
+float:left;
+margin:5px;   
+}    
+#bottombar2{
+color:rgb(255, 255, 255);
+    font-size: 15px;   
+    margin:500px 1080px;              
+}
+#bottombar2 ul li{
+list-style: none; 
+float:left;        
+margin:25px;  
+} 
+
+.fa-tachometer-alt{
+color:rgb(255, 255, 255);  
+margin-right: 15px;
+font-size: 25px;
+}
+
+
+
