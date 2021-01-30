@@ -19,7 +19,8 @@
     color:rgb(255, 255, 255);
     font-size: 25px;
     padding-top:10px;
-    padding-left:10px;  
+    padding-left:10px; 
+    font-family:'Gotham Narrow SSm A', 'Gotham Narrow SSm B', Helvetica, sans-serif; 
 }
 #centernav{
     color:rgb(255, 255, 255);
@@ -152,6 +153,7 @@ margin:25px;
     font-size: 25px;
     padding-top:10px;
     padding-left:10px; 
+    font-family:'Gotham Narrow SSm A', 'Gotham Narrow SSm B', Helvetica, sans-serif; 
     /*margin-top: 60px;*/
 }
 #side1 ul{
@@ -252,6 +254,7 @@ margin:25px;
     margin-left:10px; 
     background:transparent;
     font-weight: lighter;
+    font-family:'Gotham Narrow SSm A', 'Gotham Narrow SSm B', Helvetica, sans-serif;
 }
 #lowerWhite{
     margin-bottom:120px ;
@@ -294,33 +297,3 @@ margin:25px;
     margin-top:-260px ;
 }    
      
-#bottombar2{
-    color:rgb(255, 255, 255);
-        font-size: 35px;   
-        
-              
-}
-#bottombar2 ul li{
-list-style: none; 
-float:left;
-margin:5px;   
-}    
-#bottombar2{
-color:rgb(255, 255, 255);
-    font-size: 15px;   
-    margin:500px 1080px;              
-}
-#bottombar2 ul li{
-list-style: none; 
-float:left;        
-margin:25px;  
-} 
-
-.fa-tachometer-alt{
-color:rgb(255, 255, 255);  
-margin-right: 15px;
-font-size: 25px;
-}
-
-
-
