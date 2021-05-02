@@ -1,2 +1,2 @@
 # TESLA
-first exercise:appleseeds academy-week 1
+weekend exercise Appleseeds Academy
